@@ -1,0 +1,1 @@
+Purpose: Lightweight CLI tool to parse system logs (syslog-like) to extract error and event messages, with simple regex parsing and output filtering.

@@ -1,0 +1,4 @@
+{"event_type":"ALERT","timestamp":"2025-03-01T12:34:56Z","hostname":"host-01","alert_id":"A-12345","severity":"high"}
+{"event_type":"INFO","timestamp":"2025-03-01T12:35:10Z","hostname":"host-02","id":"I-22334","severity":"info"}
+{"event_type":"THREAT","timestamp":"2025-03-01T12:36:00Z","hostname":"host-01","alert":{"id":"T-999"},"severity":"critical"}
+
